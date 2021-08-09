@@ -4,20 +4,20 @@ This is a collection of javascript coding problems from various sources.
 
 ## Contents
 
-| Name              | Difficulty | Source              |
-| ----------------- | ---------- | ------------------- |
-| Looping-Triangle  | \*         | Eloquent-Javascript |
-| Fizz-Buzz         | \*         | Eloquent-Javascript |
-| Chessboard        | \*         | Eloquent-Javascript |
-| Character-Counter | \*         | Eloquent-Javascript |
-| Fibonacci         | \*\*       | Eloquent-Javascript |
-| Is-Factor         | \*\*       | Eloquent-Javascript |
-| Power             | \*\*       | Eloquent-Javascript |
-| Range             | \*\*       | Eloquent-Javascript |
-| Reverse-Array     | \*\*       | Eloquent-Javascript |
-| Scripts           | \*\*       | Eloquent-Javascript |
-| Vector-Type       | \*\*       | Eloquent-Javascript |
-| Deep-Comparison   | \*\*\*\*   | Eloquent-Javascript |
+| Name                                    | Difficulty | Source              |
+| --------------------------------------- | ---------- | ------------------- |
+| [Looping-Triangle](#Looping-Triangle)   | \*         | Eloquent-Javascript |
+| [Fizz-Buzz](#Fizz-Buzz)                 | \*         | Eloquent-Javascript |
+| [Chessboard](#Chessboard)               | \*         | Eloquent-Javascript |
+| [Character-Counter](#Character-Counter) | \*         | Eloquent-Javascript |
+| [Fibonacci](#Fibonacci)                 | \*\*       | Eloquent-Javascript |
+| [Is-Factor](#Is-Factor)                 | \*\*       | Eloquent-Javascript |
+| [Power](#Power)                         | \*\*       | Eloquent-Javascript |
+| [Range](#Range)                         | \*\*       | Eloquent-Javascript |
+| [Reverse-Array](#Reverse-Array)         | \*\*       | Eloquent-Javascript |
+| [Scripts](#Scripts)                     | \*\*       | Eloquent-Javascript |
+| [Vector-Type](#Vector-Type)             | \*\*       | Eloquent-Javascript |
+| [Deep-Comparison](#Deep-Comparison)     | \*\*\*\*   | Eloquent-Javascript |
 
 ---
 
