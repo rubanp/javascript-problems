@@ -1,6 +1,5 @@
----
-
 # Javascript Coding Problems
+
 This is a collection of javascript coding problems from various sources.
 
 ## Contents
@@ -169,6 +168,8 @@ Add a getter property `length` to the prototype that computes the length of the
 vector—that is, the distance of the point (`x`, `y`) from the origin (0, 0).
 
 [Answer](answers/vector-type.js)
+
+---
 
 ### Deep-Comparison
 
