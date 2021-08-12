@@ -4,20 +4,20 @@ This is a collection of javascript coding problems from various sources.
 
 ## Contents
 
-| Name                                    | Difficulty | Source              |
-| --------------------------------------- | ---------- | ------------------- |
-| [Looping-Triangle](#Looping-Triangle)   | \*         | Eloquent-Javascript |
-| [Fizz-Buzz](#Fizz-Buzz)                 | \*         | Eloquent-Javascript |
-| [Chessboard](#Chessboard)               | \*         | Eloquent-Javascript |
-| [Character-Counter](#Character-Counter) | \*         | Eloquent-Javascript |
-| [Fibonacci](#Fibonacci)                 | \*\*       | Eloquent-Javascript |
-| [Is-Factor](#Is-Factor)                 | \*\*       | Eloquent-Javascript |
-| [Power](#Power)                         | \*\*       | Eloquent-Javascript |
-| [Range](#Range)                         | \*\*       | Eloquent-Javascript |
-| [Reverse-Array](#Reverse-Array)         | \*\*       | Eloquent-Javascript |
-| [Scripts](#Scripts)                     | \*\*       | Eloquent-Javascript |
-| [Vector-Type](#Vector-Type)             | \*\*       | Eloquent-Javascript |
-| [Deep-Comparison](#Deep-Comparison)     | \*\*\*\*   | Eloquent-Javascript |
+| Name                                    | Difficulty | Source                                                |
+| --------------------------------------- | ---------- | ----------------------------------------------------- |
+| [Looping-Triangle](#Looping-Triangle)   | \*         | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Fizz-Buzz](#Fizz-Buzz)                 | \*         | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Chessboard](#Chessboard)               | \*         | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Character-Counter](#Character-Counter) | \*         | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Fibonacci](#Fibonacci)                 | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Is-Factor](#Is-Factor)                 | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Power](#Power)                         | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Range](#Range)                         | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Reverse-Array](#Reverse-Array)         | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Scripts](#Scripts)                     | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Vector-Type](#Vector-Type)             | \*\*       | [Eloquent-Javascript](https://eloquentjavascript.net) |
+| [Deep-Comparison](#Deep-Comparison)     | \*\*\*\*   | [Eloquent-Javascript](https://eloquentjavascript.net) |
 
 ---
 
