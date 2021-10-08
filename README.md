@@ -86,6 +86,8 @@ in the string
 
 [Answer](answers/char-counter.js)
 
+---
+
 ### Fibonacci
 
 Write a function that given an index `n` returns the number at that point in
